@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+我是计算机学院的学生。
